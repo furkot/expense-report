@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "currency": "$",
+    "mileageRate": 51,
+    "units": "m"
+  },
+  "routes": [{
+    "points": [{
+      "arrival_time": 1706011567000,
+      "cost": 1000,
+      "name": "start",
+      "notes": "the first stop",
+      "tags": ["actual cost", "total"]
+    }, {
+      "arrival_time": 1706186426000,
+      "cost": 10000,
+      "costRoute": 1500,
+      "distance": 123456,
+      "name": "overnight",
+      "nights": 1
+    }, {
+      "arrival_time": 1706186426000,
+      "cost": 2000,
+      "name": "gas station",
+      "sym": 25
+    }, {
+      "arrival_time": 1706186426000,
+      "cost": 3500,
+      "name": "restaurant",
+      "sym": 30
+    }, {
+      "arrival_time": 1706186426000,
+      "cost": 500,
+      "name": "stop",
+      "sym": 98
+    }]
+  }]
+}
