@@ -1,6 +1,6 @@
 "Description","Date","Amount","Currency","Type","Notes"
 "start / actual cost / total","2024-01-23","10.00","USD","","the first stop"
-"start - overnight / 76.7 m","2024-01-25","39.12","USD","mileage"
+"start - overnight / 76.7 m / 0.51 USD","2024-01-25","39.12","USD","mileage"
 "start - overnight","2024-01-25","15.00","USD","tolls"
 "overnight / 100.00 USD","2024-01-25","50.00","USD","lodging",
 "gas station","2024-01-25","20.00","USD","fuel",
