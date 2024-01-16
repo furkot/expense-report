@@ -1,8 +1,8 @@
-"Description","Date","Amount","Type","Notes"
-"start / actual cost / total / $","2024-01-23","10.00","","the first stop"
-"start - overnight / 76.7 m / $","2024-01-25","39.12","mileage"
-"start - overnight / $","2024-01-25","15.00","tolls"
-"overnight / $","2024-01-25","100.00","lodging",
-"gas station / $","2024-01-25","20.00","fuel",
-"restaurant / $","2024-01-25","35.00","meal",
-"stop / $","2024-01-25","5.00","parking",
+"Description","Date","Amount","Currency","Type","Notes"
+"start / actual cost / total","2024-01-23","10.00","USD","","the first stop"
+"start - overnight / 76.7 m","2024-01-25","39.12","USD","mileage"
+"start - overnight","2024-01-25","15.00","USD","tolls"
+"overnight","2024-01-25","100.00","USD","lodging",
+"gas station","2024-01-25","20.00","USD","fuel",
+"restaurant","2024-01-25","35.00","USD","meal",
+"stop","2024-01-25","5.00","USD","parking",
