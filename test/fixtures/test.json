@@ -18,7 +18,10 @@
       "day": 0,
       "distance": 123456,
       "name": "overnight",
-      "nights": 2
+      "nights": 2,
+      "notes": "overnight lodging",
+      "per_diem": 2500,
+      "tags": ["actual lodging cost", "meals and incidentals per diem"]
     }, {
       "arrival_time": 1706186426000,
       "cost": 2000,
