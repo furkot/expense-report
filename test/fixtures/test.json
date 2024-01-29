@@ -15,6 +15,7 @@
       "arrival_time": 1706186426000,
       "cost": 10000,
       "costRoute": 1500,
+      "day": 0,
       "distance": 123456,
       "name": "overnight",
       "nights": 2
