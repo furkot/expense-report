@@ -1,6 +1,6 @@
 {
   "name": "@furkot/export-expense-report",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Generate CSV expense report from Furkot trip data.",
   "author": {
     "name": "Natalia Kowalczyk",

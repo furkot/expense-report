@@ -1,4 +1,10 @@
 
+0.0.3 / 2024-01-29
+==================
+
+ * add entry for per diem
+ * add which night to lodging entry
+
 0.0.2 / 2024-01-16
 ==================
 
