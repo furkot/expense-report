@@ -40,6 +40,16 @@
       "mode": 2,
       "name": "stop",
       "sym": 98
+    }, {
+      "arrival_time": 1706186426000,
+      "costRoute": 25000,
+      "name": "airport",
+      "mode": 4
+    }, {
+      "arrival_time": 1706186426000,
+      "costRoute": 25000,
+      "name": "ferry terminal",
+      "mode": 6
     }]
   }]
 }
