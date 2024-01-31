@@ -1,4 +1,11 @@
 
+0.0.4 / 2024-01-31
+==================
+
+ * distinguish between tolls and transportation
+ * skip mileage for segments in travel mode different than the trip
+ * assume mileage rate in cents can have fraction
+
 0.0.3 / 2024-01-29
 ==================
 
