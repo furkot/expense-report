@@ -2,6 +2,7 @@
   "metadata": {
     "currency": "USD",
     "mileageRate": 51.5,
+    "mode": 0,
     "units": "m"
   },
   "routes": [{
@@ -35,6 +36,8 @@
     }, {
       "arrival_time": 1706186426000,
       "cost": 500,
+      "distance": 100,
+      "mode": 2,
       "name": "stop",
       "sym": 98
     }]
