@@ -1,11 +1,11 @@
 "Description","Date","Amount","Currency","Type","Notes"
-"start / actual cost / total","2024-01-23","10.00","USD","","the first stop"
-"start - overnight / 76.7 m / 0.515 USD","2024-01-25","39.51","USD","mileage"
-"start - overnight","2024-01-25","15.00","USD","tolls"
-"overnight / actual lodging cost / meals and incidentals per diem / 100.00 USD / 1/2","2024-01-25","50.00","USD","lodging","overnight lodging"
-"overnight / actual lodging cost / meals and incidentals per diem","2024-01-25","25.00","USD","per diem","overnight lodging"
-"gas station","2024-01-25","20.00","USD","fuel",
+"start / actual cost / total / first day","2024-01-23","10.00","USD","","the first stop"
+"start - overnight / first day / 76.7 m / 0.515 USD","2024-01-25","39.51","USD","mileage"
+"start - overnight / first day","2024-01-25","15.00","USD","tolls"
+"overnight / actual lodging cost / meals and incidentals per diem / first day / 100.00 USD / 1/2","2024-01-25","50.00","USD","lodging","overnight lodging"
+"overnight / actual lodging cost / meals and incidentals per diem / first day","2024-01-25","25.00","USD","per diem","overnight lodging"
+"gas station / second day","2024-01-25","20.00","USD","fuel",
 "restaurant","2024-01-25","35.00","USD","meal",
 "stop","2024-01-25","5.00","USD","parking",
-"stop - airport","2024-01-25","250.00","USD","transportation"
+"stop - airport / third day","2024-01-25","250.00","USD","transportation"
 "airport - ferry terminal","2024-01-25","250.00","USD","transportation"

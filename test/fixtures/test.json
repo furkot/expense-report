@@ -9,6 +9,7 @@
     "points": [{
       "arrival_time": 1706011567000,
       "cost": 1000,
+      "dayLabel": "first day",
       "name": "start",
       "notes": "the first stop",
       "tags": ["actual cost", "total"]
@@ -17,6 +18,7 @@
       "cost": 10000,
       "costRoute": 1500,
       "day": 0,
+      "dayLabel": "first day",
       "distance": 123456,
       "name": "overnight",
       "nights": 2,
@@ -26,6 +28,7 @@
     }, {
       "arrival_time": 1706186426000,
       "cost": 2000,
+      "dayLabel": "second day",
       "name": "gas station",
       "sym": 25
     }, {
@@ -43,6 +46,7 @@
     }, {
       "arrival_time": 1706186426000,
       "costRoute": 25000,
+      "dayLabel": "third day",
       "name": "airport",
       "mode": 4
     }, {
